@@ -1,0 +1,9 @@
+{
+	"name": "adf-learning-kashish",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36d20ba2-6592-498a-bfaf-ad7fe800662b",
+		"tenantId": "96797383-beaf-4d82-9862-0b3f6807f36a"
+	}
+}
